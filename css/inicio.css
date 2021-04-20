@@ -1,0 +1,19 @@
+*{
+}
+body{
+background-color: black;
+}
+#contenedor-header{
+    width: auto;
+}
+
+#contenedor-header h1{
+    color: white;
+    text-align: center;
+}
+
+#contenedor-header h2{
+    color: white;
+    text-align: center;
+}
+
